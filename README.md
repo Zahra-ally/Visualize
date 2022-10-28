@@ -13,7 +13,7 @@ In order to combat the effects of the pandemic on businesses and take advantage 
 
 ## Usage
 ```
-git clone https://github.com/Zahra-ally/Visualize_msd.git
+git clone https://github.com/Zahra-ally/Visualize.git
 ```
 
 ```
